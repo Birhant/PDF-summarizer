@@ -1,0 +1,32 @@
+contents at a glance
+contents
+about the author
+about the technical reviewer
+acknowledgments
+index
+preface
+a. exercise solutions
+b. machine learning project checklist
+c. svm dual problem
+d. autodiff
+e. other popular ann architectures
+index
+natural language processing in action
+brief contents
+contents
+foreword
+preface
+acknowledgments
+about this book
+about the authors
+about the cover illustration
+appendix a your nlp tools
+appendix b playful python and regular expressions
+appendix c vectors and matrices (linear algebra fundamentals)
+appendix d machine learning tools and techniques
+appendix e setting up your aws gpu
+appendix f locality sensitive hashing
+resources
+glossary
+index
+natural language processing in action-back

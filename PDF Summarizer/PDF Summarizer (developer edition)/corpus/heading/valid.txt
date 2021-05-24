@@ -1,0 +1,29 @@
+introduction
+chapter 1: natural language basics
+chapter 2: python refresher
+chapter 3: processing and understanding text
+chapter 4: text classification
+chapter 5: text summarization
+chapter 6: text similarity and clustering
+chapter 7: semantic and sentiment analysis
+i. the fundamentals of machine learning
+1. the machine learning landscape
+2. end-to-end machine learning project
+3. classification
+4. training models
+5. support vector machines
+6. decision trees
+7. ensemble learning and random forests
+8. dimensionality reduction
+ii. neural networks and deep learning
+9. up and running with tensorflow
+10. introduction to artificial neural networks
+11. training deep neural nets
+12. distributing tensorflow across devices and servers
+13. convolutional neural networks
+14. recurrent neural networks
+15. autoencoders
+16. reinforcement learning
+part 1 wordy machines
+part 2 deeper learning (neural networks)
+part 3 getting real (real-world nlp challenges)
